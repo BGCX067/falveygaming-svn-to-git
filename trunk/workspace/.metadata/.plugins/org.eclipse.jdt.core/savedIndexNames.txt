@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\duspal\Gaming SVN\trunk\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3609098108.index
+317073929.index
